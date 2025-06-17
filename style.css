@@ -1,0 +1,55 @@
+body {
+    background: radial-gradient(ellipse at center, #0a0a2a 0%, #000 100%);
+    color: #fff;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+#canvas-container {
+    position: absolute;
+    top: 60px;
+    left: 0;
+    width: 100vw;
+    height: 90vh;
+    z-index: 1;
+}
+h1 {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 2.2em;
+    letter-spacing: 2px;
+    color: #ffe066;
+    text-shadow: 2px 2px 8px #000;
+    z-index: 2;
+}
+#info-card {
+    position: absolute;
+    top: 80px;
+    right: 40px;
+    background: rgba(30,30,60,0.97);
+    color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 24px #000a;
+    padding: 18px 24px;
+    min-width: 260px;
+    max-width: 350px;
+    z-index: 10;
+    display: none;
+}
+#info-card.visible {
+    display: block;
+}
+#info-card h2 {
+    margin-top: 0;
+    color: #ffe066;
+}
+footer {
+    position: absolute;
+    bottom: 10px;
+    width: 100vw;
+    text-align: center;
+    color: #aaa;
+    font-size: 1em;
+    z-index: 2;
+}

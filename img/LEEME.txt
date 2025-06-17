@@ -1,0 +1,16 @@
+Las imágenes de los planetas y la nave deben ir en esta carpeta:
+
+- tierra.png
+- arya.png
+- jupiter.png
+- sol.png
+- nuevo_namek.png
+- namek.png
+- yardrat.png
+- via_lactea.png
+- vegeta.png
+- nave.png
+
+Puedes usar imágenes libres de internet o crear tus propios íconos. Asegúrate de que los nombres coincidan con los usados en el código JS.
+
+¡Coloca aquí tus imágenes para que la simulación funcione y sea divertida!
