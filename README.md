@@ -22,10 +22,8 @@ Este proyecto es una simulación interactiva del sistema solar inspirada en el u
 
 **Sistema solar de Dragon Ball del proyecto:**
 
-```markdown
-
-```
 ![sistemasolar](https://github.com/user-attachments/assets/8852ad09-8dab-4c41-b565-12a8c6878d1c)
+
 
 ## Créditos
 - Inspirado en el universo de Akira Toriyama.
